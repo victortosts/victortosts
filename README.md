@@ -1,5 +1,4 @@
 <p>Hey there,</p>
-
 </br> I'm Victor Tostes, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Belo Horizonte, Brazil</b>. </p>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
