@@ -1,4 +1,4 @@
-<p>Welcome to my page! 
+<p>Hey there,</p>
 
 </br> I'm Victor Tostes, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> <b>Belo Horizonte, Brazil</b>. </p>
 <p>
