@@ -1,9 +1,9 @@
 <div>
   <span>Hi there! 👋</span>
-  <div>
+<!--   <div>
      <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> 
      <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  </div>
+  </div> -->
 </div>
 
 <!-- <p>
